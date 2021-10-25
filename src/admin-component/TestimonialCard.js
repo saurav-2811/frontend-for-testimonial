@@ -37,7 +37,7 @@ function TestimonialCard(props) {
     <div className="d-flex justify-content-center flex-wrap my-3">
       {dataall.map((val,i) => {
         return(<div className="card mx-2" style={{ width: "18rem" }}>
-          <img className="card-img-top" src={val?.photo?.link} alt="Card image cap" />
+          <img className="card-img-top" src={val?.photo?.link} alt="Card" />
           <div className="card-body">
             <h5 className="card-title">{val?.name}</h5>
             <p className="card-text">

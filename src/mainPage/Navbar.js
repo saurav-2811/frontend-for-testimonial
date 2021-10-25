@@ -2,7 +2,7 @@ import logo from "../asset/img/logo.svg";
 import { Link } from "react-router-dom";
 import LineIcon from "react-lineicons";
 import style from '../asset/css/page.module.css'
-import {Scroll} from 'react-scroll'
+// import {Scroll} from 'react-scroll'
 const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg sticky-top navbar-transparent navbar-light bg-light">
