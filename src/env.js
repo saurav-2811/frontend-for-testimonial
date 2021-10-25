@@ -1,0 +1,1 @@
+module.exports={BASE_URL: "https://backend-testimonials.herokuapp.com/api/v1",}
